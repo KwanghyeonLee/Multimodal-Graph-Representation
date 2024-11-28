@@ -10,4 +10,4 @@
 
 * Adaptive Self-training Framework for Fine-grained Scene Graph Generation (ICLR 2024) - Kibum Kim, Kanghoon Yoon, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park  
 
-  * The proposed Self-Training framework for Scene Graph Generation (ST-SGG) utilizes class-specific adaptive thresholding method equipped with EMA approach with class-specific momentum to address long-tailed predicate challenge and semantic ambiguity.   
+  * The proposed Self-Training framework for Scene Graph Generation (ST-SGG) utilizes class-specific adaptive thresholding method equipped with EMA approach and class-specific momentum to address the challenges of long-tailed predicates and semantic ambiguity.   
